@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+         select your broker name
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="index.html"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          ICICI Direct
         </a>
       </header>
     </div>
